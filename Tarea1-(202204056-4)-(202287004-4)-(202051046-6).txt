@@ -1,0 +1,6 @@
+* Axel Rivera - 202204056-4
+* Andres Araya - 202287004-4
+* Andres Restrepo - 202051046-6
+
+Link Repositorio:
+https://github.com/Flauvourr/Tarea-1-Bases-de-Datos
